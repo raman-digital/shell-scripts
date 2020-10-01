@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POSMessages>
+  <Messages>
+    <NewMessage>
+      <Message>You have 9 OPEN orders.</Message>
+      <Count>0</Count>
+    </NewMessage>
+    <RedMessage>
+      <Message>You have 2 orders in red status.</Message>
+      <Count>0</Count>
+    </RedMessage>
+    <Link>http://test.local.com:30000</Link>
+    <SentBy>Oracle Database</SentBy>
+    <MessageDateTime>08/23/2019 09:44:48</MessageDateTime>
+  </Messages>
+</POSMessages>
+
